@@ -1,5 +1,5 @@
 Package: regexcite
-Title: Convenience functions to make some common tasks with string manipulation and regular expressions a bit easier.
+Title: Convenience functions to make some common tasks with string manipulation and regular expressions a bit easier
 Version: 0.0.0.9000
 Authors@R: 
     person("Jason", "Lee", , "jasonmlee.career@gmail.com", role = c("aut", "cre"))
